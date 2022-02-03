@@ -1,0 +1,9 @@
+Flask
+bs4
+selenium
+lxml
+vaderSentiment
+matplotlib
+textblob
+pandas
+nltk
