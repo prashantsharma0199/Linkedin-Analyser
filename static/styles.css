@@ -1,0 +1,111 @@
+html{
+	height: 100%;
+	margin: 0;
+}
+
+body{
+	font-family: sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+	height: 100%;
+}
+
+/* Website Title */
+.title-container{
+	text-align: center;
+	padding: 30px;
+	position: relative;
+	background: linear-gradient(45deg, #1a45a1, #14afb4, #11cc6f);
+	background-size: 500% 500%;
+}
+
+.heading_font{
+    color: #ffffff;
+	font-size: 40px;
+	font-weight: bold;
+	padding-left: 1rem;
+	position: relative;
+	top: 0.6rem;
+}
+
+/* Text Area */
+.form-container{
+	margin-top: 1rem;
+	margin: 3rem;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 2% 10%;
+	color: #000000;
+	width: 60rem;
+	margin-bottom: 0.5rem;
+}
+
+label{
+	font-size: 1.05rem;
+	font-weight: 600;
+}
+  
+hr{
+	border: 1px grey solid;
+}
+
+.button-form{
+	text-align: center;
+}
+
+/* Predict Button */
+.btn{
+	font-weight: bold;
+	width: 10rem;
+}
+
+/* Footer */
+.footer{
+	text-align: center;
+	flex-shrink: 0;
+	position: relative;
+	padding: 20px;
+	background: linear-gradient(45deg, #1a45a1, #14afb4, #11cc6f);
+	background-size: 500% 500%;
+}
+
+.footer-description{
+	color: #ffffff;
+	margin: 0;
+	font-size: 1.20rem;
+}
+
+/* Result */
+.icon{
+	padding: 1rem;
+	padding-bottom: 0.25rem;
+	size: 2rem;
+	color: #ffffff;
+}
+
+.results{
+    padding: 30px 0 0;
+	flex: 1 0 auto;
+}
+
+.gif{
+	width: 25%;
+}
+
+.gif1{
+	width: 35%;
+}
+
+.img{
+	width: 4em;
+}
+
+.results{
+	text-align: center;
+}
+
+.loading{
+	text-align: center;
+}
